@@ -1,0 +1,10 @@
+q1.capital of india
+
+q2.23 divide by 45
+
+q3.who are you ?
+
+q4.what is AI ?
+
+q5.How are you ?
+
